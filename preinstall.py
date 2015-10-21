@@ -1,6 +1,6 @@
 # −*− coding: UTF−8 −*−
 # pre install script to compile ASN.1 modules
-
+# aha
 def main():
     print('[install] compiling ASN.1 modules... be patient')
     from libmich.asn1.processor import generate_modules, MODULES
